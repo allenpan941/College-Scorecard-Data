@@ -1,7 +1,6 @@
 
 # Exploratory Data Analysis: Factors Influencing College Graduate Earnings
 
-**Course:** Midterm Project - Data Science / Econometrics  
 **Author:** Zilin Pan, Billy Zhang  
 **Date:** March 2026  
 
@@ -20,7 +19,6 @@ To guide this analysis, the following questions were addressed:
 2. **Resource Investment:** Is there a positive correlation between the average salary paid to faculty members and the future earnings of students?
 3. **Institutional Type:** Do graduates from private non-profit institutions earn significantly more than those from public or for-profit schools?
 4. **Geographic Distribution:** How do graduate earnings vary spatially across different regions of the U.S.?
-5. **Demographic Influence:** Is the gender composition of the undergraduate student body related to the institution's median earnings?
 
 ---
 
@@ -38,7 +36,6 @@ The dataset was sourced from the [College Scorecard](https://collegescorecard.ed
 - `MD_EARN_WNE_P10`: Median earnings of graduates 10 years after entry (Target Variable).
 - `CONTROL`: 1 (Public), 2 (Private Non-Profit), 3 (Private For-Profit).
 - `LATITUDE` / `LONGITUDE`: Campus geographic location.
-- `UGDS_MEN`: Percentage of undergraduate men.
 
 ---
 
