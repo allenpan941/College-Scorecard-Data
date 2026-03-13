@@ -63,7 +63,7 @@ Using the longitude and latitude data, the `hexbin` visualization reveals that h
 * **Interpretation:** The local economy and proximity to major financial or tech hubs significantly influence the median earnings of nearby colleges.
 
 ### 5.4 Institutional Control
-Box plots and regression coefficients suggest that Private Non-Profit institutions (Control = 2) generally have a higher ceiling for graduate earnings compared to Public institutions.
+Box plots and regression coefficients suggest that Private Non-Profit institutions (Control = 2) generally have a higher ceiling for graduate earnings compared to Public institutions. They also get higher average earnings. Public schools get the second highest and private for-profit get the lowest.
 
 ---
 
