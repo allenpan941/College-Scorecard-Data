@@ -94,8 +94,4 @@ This study confirms that academic indicators and institutional resources are str
 
 ---
 
-## References
-U.S. Department of Education College Scorecard Data. (2025). Retrieved from https://collegescorecard.ed.gov/data/
 
-McKinney, W., & others. (2010). Data structures for statistical computing in python
-```
