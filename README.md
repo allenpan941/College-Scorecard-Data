@@ -73,7 +73,7 @@ The multivariate regression results confirm that both academic selectivity and i
 ### 5.6 Limitations and Causality Considerations   
 
 While the analysis identifies strong relationships between institutional characteristics and earnings, it is important to emphasize that these results do not imply causation. Other affecting factors that could have related to the dependent variable(earning) while correlating with independent variables(sat_avg) such as students’ chosen majors, prior socioeconomic background, and career preferences are not included in the model, leading to omitted variable bias. Furthermore, variables such as SAT scores and faculty salaries may act as proxies for institutional prestige rather than direct causal drivers. As a result, the findings should be conservatively interpreted as descriptive relationships rather than definitive causal effects. Nonetheless, this reserach has succeeded in discovering some of the most influencing factors of post-graduation earnings.
----
+
 
 ## 6. Project Reproducibility
 To replicate this analysis, follow these steps:
@@ -99,6 +99,6 @@ Open `code.ipynb` and execute the cells to regenerate all figures and statistica
 
 ## 7. Conclusion
 This study confirms that academic indicators and institutional resources are strong predictors of student financial success. While individual effort is crucial, institutional factors like academic rigor, geographic location, and faculty resources play a measurable role in determining the earning potential of graduates. The OLS model confirms that SAT scores and faculty salaries are among the most statistically significant predictors. Overall, the findings yield resulats that the return on higher education can be shaped 1) student's acumen(denoted by test score) 2) the facaulty investment of the college they study in, 3) which kind of instituion they attend, and finally 4)where the students learn.
----
+
 
 
