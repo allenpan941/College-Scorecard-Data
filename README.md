@@ -70,7 +70,8 @@ Box plots and regression coefficients suggest that Private Non-Profit institutio
 ### 5.5 Multivariate Regression Analysis
 The multivariate regression results confirm that both academic selectivity and institutional investment are significant predictors of graduate earnings, even after controlling for institutional type.
 
-### 5.6 Limitations and Causality Considerations
+### 5.6 Limitations and Causality Considerations   
+
 While the analysis identifies strong relationships between institutional characteristics and earnings, it is important to emphasize that these results do not imply causation. Other affecting factors that could have related to the dependent variable(earning) while correlating with independent variables(sat_avg) such as students’ chosen majors, prior socioeconomic background, and career preferences are not included in the model, leading to omitted variable bias. Furthermore, variables such as SAT scores and faculty salaries may act as proxies for institutional prestige rather than direct causal drivers. As a result, the findings should be conservatively interpreted as descriptive relationships rather than definitive causal effects. Nonetheless, this reserach has succeeded in discovering some of the most influencing factors of post-graduation earnings.
 ---
 
