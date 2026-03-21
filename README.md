@@ -73,6 +73,18 @@ The multivariate regression results confirm that both academic selectivity and i
 ### 5.6 Limitations and Causality Considerations
 While the analysis identifies strong relationships between institutional characteristics and earnings, it is important to emphasize that these results do not imply causation. Other affecting factors that could have related to the dependent variable (earning) while correlating with independent variables (sat_avg) such as students’ chosen majors, prior socioeconomic background, and career preferences are not included in the model, leading to omitted variable bias. Furthermore, variables such as SAT scores and faculty salaries may act as proxies for institutional prestige rather than direct causal drivers. As a result, the findings should be conservatively interpreted as descriptive relationships rather than definitive causal effects. Nonetheless, this reserach has succeeded in discovering some of the most influencing factors of post-graduation earnings.
 
+### 5.7 Analysis of Extended Features
+
+#### 5.7.1 Earnings-to-Faculty Salary Ratio(Return on Facaulty Investment)
+**Question:** Is expensive faculty actually worth it?
+The earnings-to-faculty salary ratio provides a measure of institutional efficiency by comparing earnings to spendings on facaulty. According to the summary statistics, the average institution generates approximately 7.12 units of earnings per unit of faculty salary, with a median of 6.69, indicating a moderately right-skewed distribution. However, the presence of extreme values—particularly a maximum ratio exceeding 50. Namely, a small number of institutions achieve exceptionally high earnings relative to their faculty spending.
+Overall, the results conclude that there is are **diminishing returns** to facaulty salary. While higher faculty salaries are associated with higher earnings, the efficiency with which institutions convert spending into outcomes varies substantially. The scatter plot visually cooroborates a negative relationship between faculty salary and efficiency, showing diminishing returns to salary spending. This highlights that institutional effectiveness is not solely determined by how much is invested, but also by how effectively the investment are allocated and leveraged.
+
+#### 5.7.2 Regional Earning Differences
+**Question:** To what extent does the weatern and the eastern earn more than the central?
+The regional analysis shows nuanced differences in earnings outcomes across the United States. On average, institutions in the West ($44,248) and East ($43,320) outperform those in the Central region ($41,488). However, the differences in means are relatively small compared to the substantial variation within each region, as reflected by the high standard deviations—particularly in the West (17,863) and East (17,524). The boxplot illustrates that all three regions exhibit wide and overlapping distributions, which means that regional location alone does not determine outcomes. Yet, the East and West regions display a greater number of high-end outliers, with earnings exceeding $120,000, indicating stronger potential possibly explained some of the nation's most prestigious universities.
+
+
 ---
 
 ## 6. Project Reproducibility
