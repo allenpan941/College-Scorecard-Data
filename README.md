@@ -114,5 +114,7 @@ This study confirms that academic indicators and institutional resources are str
 
 ---
 
+## Reference
+US Department of Education https://collegescorecard.ed.gov/data
 
 
